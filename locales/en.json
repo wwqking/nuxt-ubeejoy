@@ -1,0 +1,122 @@
+{
+  "header":{
+    "welcome":"Welcome, please",
+    "login":"Login",
+    "register":"Sign-up",
+    "phone":"Mobile Browsing",
+    "lang":"Language"
+  },
+  "sidebar":{
+    "or":"/",
+    "zh":"Chinese",
+    "en":"English",
+    "kr":"Korean",
+    "third":"Login with"
+  },
+  "navbar":{
+    "games":"Games",
+    "smallga":"",
+    "recharge":"Recharge",
+    "smallre":"",
+    "about":"About",
+    "smallab":""
+  },
+  "navbar2":{
+    "privacy":"Privacy Policy",
+    "terms":"Terms & Condition"
+  },
+  "games":{
+    "title":"Game Center",
+    "smalltitle":"",
+    "guanwang":"WEBSITE",
+    "more":"More"
+  },
+  "recharge":{
+    "account":"Account",
+    "recharge":"Recharge",
+    "rechargeHistory":"Recharge History",
+    "selectRegion":"Please select a region",
+    "region":"Region",
+    "selectCharacterMes":"Please select character info",
+    "selectGame":"Game",
+    "selectServer":"Server",
+    "selectCharacter":"Character",
+    "selectPaymentAndAmount":"Please select payment methods and amount",
+    "points":"Points Card",
+    "ewallet":"E-wallet",
+    "confirm":"Please confirm your order",
+    "game":"Game",
+    "server":"Server",
+    "character":"Character",
+    "rechargeAmount":"Recharge Amount",
+    "submit":"Submit",
+    "rechargeSucceed":"Recharge Succeed",
+    "succeed":"You can check it in the game now",
+    "enter":"ENTER",
+    "rechargeFailed":"Recharge failed",
+    "failed":"Please try again or provide order ID & character info to <span style='color:#f8b62b'>customer service</span>",
+    "retry":"RETRY",
+    "rechargeIng":"Topping up",
+    "query":"Query",
+    "rechargeCenter":"Recharge Center",
+    "orderStatus":"Order Status",
+    "orderCreate":"Order creation",
+    "orderFail":"Order failed",
+    "orderCompleted":"Order completed",
+    "time":"Order Time"
+  },
+  "login":{
+    "welcome":"Welcome",
+    "title":"Login",
+    "account":"Account",
+    "password":"Password",
+    "show":"Show",
+    "remember":"Remember me",
+    "register":"Not registered yet?<span style='color:#f8b62b'> Sign up for free</span>",
+    "forgetPW":"<span style='color:#f8b62b'>Forget your password?</span>",
+    "login":"Login",
+    "facebook":"Login with Facebook",
+    "google":"Login with Google",
+    "logined":"Logged in",
+    "loginOut":"Log out",
+    "loginFail": "Failed to log in",
+    "logoutFail": "Failed to log out",
+    "userError":"Incorrect account",
+    "pwdError": "Wrong password format"
+  },
+  "register":{
+    "registration":"Registration",
+    "title":"Sign up",
+    "account":"Account",
+    "accountRequire":"4-12 letters or numbers",
+    "password":"Password",
+    "passwordRequire":"6-18 letters or numbers, case sensitive",
+    "repassword":"Re-enter your password",
+    "email":"Email Address",
+    "code":"Verification Code",
+    "getCode":"Verify",
+    "agree":"I agree to the User Agreement",
+    "btn":"Sign up",
+    "facebook":"Login with Facebook",
+    "google":"Login with Google"
+  },
+  "about": {
+    "title": "ABOUT US",
+    "introduction": "UBeeJoy is an oversea game publisher with rich independent publishing experience in North America, Europe and Southeast Asian. UBeeJoy mainly focuses on the market segment of MAG (Manga, Anime & Game), games designed for female audience and indie games, while expanding its product lines in other genres as well. "
+  },
+  "privacy":{
+    "title":"Privacy Policy"
+  },
+  "terms":{
+    "title":"Terms & Condition"
+  },
+  "footer":{
+    "a1":"Privacy Policy",
+    "a2":"Terms & Condition",
+    "p1":"BUSINESS",
+    "p2":"CUSTOMER SERVICE "
+  },
+  "others":{
+    "soon":"coming soon"
+  }
+}

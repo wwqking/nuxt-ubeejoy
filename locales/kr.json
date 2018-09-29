@@ -1,0 +1,121 @@
+{
+  "header":{
+    "welcome":"안녕하세요,",
+    "login":"로그인",
+    "register":"회원가입",
+    "phone":"모바일",
+    "lang":"언어"
+  },
+  "sidebar":{
+    "or":"또는",
+    "zh":"중국어로 전환",
+    "en":"영어로 전환",
+    "kr":"한국어로 전환",
+    "third":"기타 아이디로 로그인"
+  },
+  "navbar":{
+    "games":"게임",
+    "smallga":"",
+    "recharge":"충전",
+    "smallre":"",
+    "about":"회사 소개",
+    "smallab":""
+  },
+  "navbar2":{
+    "privacy":"개인정보처리방침",
+    "terms":"조건"
+  },
+  "games":{
+    "title":"게임 센터",
+    "smalltitle":"",
+    "guanwang":"홈페이지",
+    "more":"더 알아보기"
+  },
+  "recharge":{
+    "account":"충전 아이디",
+    "recharge":"충전",
+    "rechargeHistory":"충전 내역",
+    "selectRegion":"지역을 선택하세요",
+    "region":"지역",
+    "selectCharacterMes":"캐릭터 정보 선택하세요",
+    "selectGame":"게임",
+    "selectServer":"서버 선택",
+    "selectCharacter":"캐릭터 선택",
+    "selectPaymentAndAmount":"충전 방식 및 금액 선택하세요",
+    "points":"포인트 카드",
+    "ewallet":"전자 지갑",
+    "confirm":"충전 주문 내역 확인하세요",
+    "game":"게임",
+    "server":"서버",
+    "character":"캐릭터",
+    "rechargeAmount":"금액",
+    "submit":"제출",
+    "rechargeSucceed":"충전 성공",
+    "succeed":"게임에서  금액 확인하십시오.",
+    "enter":"게임 들어가기 ",
+    "rechargeFailed":"충전 실패",
+    "failed":"다시 시도하시거나 주문번호 및 캐릭터정보를 <span style='color:#f8b62b'>고객센터</span>에 보내세요.",
+    "retry":"다시 시도",
+    "rechargeIng":"충전중",
+    "query":"조회",
+    "rechargeCenter":"충전 센터",
+    "orderStatus":"주문 확인",
+    "orderCreate":"주문 하기",
+    "orderFail":"로그인 실패",
+    "orderCompleted":"주문 완료",
+    "time":"제작시간"
+  },
+  "login":{
+    "welcome":"로그인 환영합니다",
+    "title":"로그인",
+    "account":"아이디",
+    "password":"비밀번호",
+    "show":"보임",
+    "remember":"아이디 기억하기",
+    "register":"<span style='color:#f8b62b'>무료 가입하기</span>",
+    "forgetPW":"<span style='color:#f8b62b'>비밀번호 찾기 </span>",
+    "login":"로그인",
+    "facebook":"Facebook 로그인",
+    "google":"Google 로그인",
+    "logined":"로그인되었습니다",
+    "loginOut":"로그아웃",
+    "loginFail": "로그인 실패",
+    "logoutFail": "로그아웃 실패",
+    "userError":"아이디가 틀렸습니다.",
+    "pwdError": "비밀번호 양식 틀렸습니다"
+  },
+  "register":{
+    "registration":"통합계정",
+    "title":"가입하기",
+    "account":"아이디",
+    "accountRequire":"4-12자 입력  영어 문자 또는 숫자만 가능",
+    "password":"비밀번호",
+    "passwordRequire":"6-18자 입력  영어 문자 또는 숫자만 가능  대소문자 구분",
+    "repassword":"비밀번호 재확인",
+    "email":"메일 주소",
+    "code":"인증 번호",
+    "getCode":"인증 번호 받기",
+    "agree":"이용자 약관 동의 ",
+    "btn":"가입하기",
+    "facebook":"Facebook로그인"
+  },
+  "about": {
+    "title": "회사 소개",
+    "introduction": "UBeeJoy is an oversea game publisher with rich independent publishing experience in North America, Europe and Southeast Asian. UBeeJoy mainly focuses on the market segment of MAG (Manga, Anime & Game), games designed for female audience and indie games, while expanding its product lines in other genres as well. "
+  },
+  "privacy":{
+    "title":"개인정보처리방침"
+  },
+  "terms":{
+    "title":"조건"
+  },
+  "footer":{
+    "a1":"개인정보처리방침",
+    "a2":"조건",
+    "p1":"비즈니스",
+    "p2":"고객센터 "
+  },
+  "others":{
+    "soon":"coming soon"
+  }
+}

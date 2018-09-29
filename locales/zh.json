@@ -1,0 +1,123 @@
+{
+  "header":{
+    "welcome":"您好，请",
+    "login":"登录",
+    "register":"注册",
+    "phone":"手机浏览",
+    "lang":"语言"
+  },
+  "sidebar":{
+    "or":"或",
+    "zh":"中文切换",
+    "en":"英文切换",
+    "kr":"韩语切换",
+    "third":"第三方登录"
+  },
+  "navbar":{
+    "games":"游戏",
+    "smallga":"Games",
+    "recharge":"储值",
+    "smallre":"Recharge",
+    "about":"关于",
+    "smallab":"About"
+
+  },
+  "navbar2":{
+    "privacy":"隐私政策",
+    "terms":"合约条款"
+  },
+  "games":{
+    "title":"游戏中心",
+    "smalltitle":"Game Center",
+    "guanwang":"官网",
+    "more":"更多"
+  },
+  "recharge":{
+    "account":"储值账户",
+    "recharge":"储值",
+    "rechargeHistory":"储值记录",
+    "selectRegion":"请选择地区",
+    "region":"地区",
+    "selectCharacterMes":"请选择角色信息",
+    "selectGame":"游戏",
+    "selectServer":"选择服务器",
+    "selectCharacter":"选择角色",
+    "selectPaymentAndAmount":"请选择储值渠道和金额",
+    "points":"点卡",
+    "ewallet":"电子钱包",
+    "confirm":"请确认储值订单",
+    "game":"游戏",
+    "server":"服务器",
+    "character":"角色",
+    "rechargeAmount":"金额",
+    "submit":"确认提交",
+    "rechargeSucceed":"储值成功",
+    "succeed":"请进入游戏内查收货币。",
+    "enter":"进入",
+    "rechargeFailed":"储值失败",
+    "failed":"请重试或者提供订单号及角色信息给<span style='color:#f8b62b'>客服</span>",
+    "retry":"重试",
+    "rechargeIng":"储值中",
+    "query":"查询",
+    "rechargeCenter":"储值中心",
+    "orderStatus":"订单状态",
+    "orderCreate":"订单创建",
+    "orderFail":"订单失败",
+    "orderCompleted":"订单完成",
+    "time":"创建时间"
+  },
+  "login":{
+    "welcome":"欢迎登录",
+    "title":"登录",
+    "account":"账号",
+    "password":"密码",
+    "show":"明文",
+    "remember":"记住账号",
+    "register":"还没有账号？<span style='color:#f8b62b'>免费注册</span>",
+    "forgetPW":"<span style='color:#f8b62b'>忘记密码？</span>",
+    "login":"登录",
+    "facebook":"Facebook登录",
+    "google":"Google登录",
+    "logined":"已登录",
+    "loginOut":"注销",
+    "loginFail": "登入失败",
+    "logoutFail": "登出失败",
+    "userError":"账号有误",
+    "pwdError": "密码格式有误"
+  },
+  "register":{
+    "registration":"通行证",
+    "title":"注册",
+    "account":"账号",
+    "accountRequire":"4~12个字符 只能输入字母或数字",
+    "password":"密码",
+    "passwordRequire":"6~18个字符 只能输入字母或数字 区分大小写",
+    "repassword":"重新输入密码",
+    "email":"邮箱地址",
+    "code":"验证码",
+    "getCode":"获取验证码",
+    "agree":"同意用户协议",
+    "btn":"注册",
+    "facebook":"Facebook登录",
+    "google":"Google登录"
+  },
+  "about": {
+    "title": "ABOUT US",
+    "introduction": "UBEEJOY是百奥旗下成立的海外发行团队，拥有欧美、东南亚地区独立发行经验，主要专注于二次元、女性向以及独立游戏细分市场。"
+  },
+  "privacy":{
+    "title":"隐私政策"
+  },
+  "terms":{
+    "title":"合约条款"
+  },
+  "footer":{
+    "a1":"隐私政策",
+    "a2":"合约条款",
+    "p1":"商务",
+    "p2":"客服 "
+  },
+  "others":{
+    "soon":"敬请期待"
+  }
+}
